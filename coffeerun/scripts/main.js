@@ -27,5 +27,5 @@
 
     myTruck.printOrders(checkList.addRow.bind(checkList));
     formHandler.addSilverChallengeDecafHandler(Validation.isSilverChallenge);
-    formhandler.addEmailAvailableHandler(Validation.isemail);
+    formHandler.addEmailAvailableHandler(Validation.isemail);
 })(window);
