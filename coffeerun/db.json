@@ -1,0 +1,12 @@
+{
+  "coffeeorders": [
+    {
+      "coffee": "anjali",
+      "emailAddress": "a@bignerdranch.com",
+      "size": "grande",
+      "flavor": "caramel",
+      "strength": "36",
+      "id": "a@bignerdranch.com"
+    }
+  ]
+}
